@@ -1,2 +1,1 @@
-"#MY Git Repository" 
-"Change made in MITS branch" 
+"# My Git Repository" 
